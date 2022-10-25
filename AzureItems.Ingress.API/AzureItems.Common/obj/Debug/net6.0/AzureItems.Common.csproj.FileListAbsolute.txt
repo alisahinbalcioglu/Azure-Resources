@@ -1,0 +1,12 @@
+C:\Users\alisa\source\repos\Azure-Resources\AzureItems.Ingress.API\AzureItems.Common\bin\Debug\net6.0\AzureItems.Common.deps.json
+C:\Users\alisa\source\repos\Azure-Resources\AzureItems.Ingress.API\AzureItems.Common\bin\Debug\net6.0\AzureItems.Common.dll
+C:\Users\alisa\source\repos\Azure-Resources\AzureItems.Ingress.API\AzureItems.Common\bin\Debug\net6.0\AzureItems.Common.pdb
+C:\Users\alisa\source\repos\Azure-Resources\AzureItems.Ingress.API\AzureItems.Common\obj\Debug\net6.0\AzureItems.Common.csproj.AssemblyReference.cache
+C:\Users\alisa\source\repos\Azure-Resources\AzureItems.Ingress.API\AzureItems.Common\obj\Debug\net6.0\AzureItems.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\source\repos\Azure-Resources\AzureItems.Ingress.API\AzureItems.Common\obj\Debug\net6.0\AzureItems.Common.AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\Azure-Resources\AzureItems.Ingress.API\AzureItems.Common\obj\Debug\net6.0\AzureItems.Common.AssemblyInfo.cs
+C:\Users\alisa\source\repos\Azure-Resources\AzureItems.Ingress.API\AzureItems.Common\obj\Debug\net6.0\AzureItems.Common.csproj.CoreCompileInputs.cache
+C:\Users\alisa\source\repos\Azure-Resources\AzureItems.Ingress.API\AzureItems.Common\obj\Debug\net6.0\AzureItems.Common.dll
+C:\Users\alisa\source\repos\Azure-Resources\AzureItems.Ingress.API\AzureItems.Common\obj\Debug\net6.0\refint\AzureItems.Common.dll
+C:\Users\alisa\source\repos\Azure-Resources\AzureItems.Ingress.API\AzureItems.Common\obj\Debug\net6.0\AzureItems.Common.pdb
+C:\Users\alisa\source\repos\Azure-Resources\AzureItems.Ingress.API\AzureItems.Common\obj\Debug\net6.0\ref\AzureItems.Common.dll
